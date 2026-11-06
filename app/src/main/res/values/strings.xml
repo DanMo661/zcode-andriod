@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZcodeAndriod</string>
+    <string name="notif_channel_chat">对话通知</string>
+    <string name="notif_channel_capture">屏幕截取</string>
+    <string name="nav_chat">对话</string>
+    <string name="nav_device">设备</string>
+    <string name="nav_launcher">启动台</string>
+    <string name="nav_settings">设置</string>
+    <string name="accessibility_label">ZcodeA 设备控制</string>
+    <string name="accessibility_desc">允许 ZcodeAndriod 的 AI 观察屏幕元素并代你操作（支付等敏感界面强制拦截）</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 仅作启动壳；实际配色由 Compose 主题（ui/theme）接管，状态栏交给 enableEdgeToEdge -->
+    <style name="Theme.ZcodeA" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>

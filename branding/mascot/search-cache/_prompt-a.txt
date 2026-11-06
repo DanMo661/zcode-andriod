@@ -1,0 +1,10 @@
+Use case: illustration-story
+Asset type: app mascot character, vertical portrait for Android adaptive icon
+Primary request: An ORIGINAL cute anime mascot girl who is a coding assistant. Short bob haircut with a small letter "Z" hairpin (plain generic letter, not any logo), large round over-ear headphones with a small antenna, wearing a cozy hoodie, hugging a tiny open laptop showing a simple terminal window with a blinking cursor.
+Style/medium: modern anime illustration, clean cel shading, kawaii chibi-proportions (large head, small body), bold simple shapes
+Composition/framing: vertical portrait, character centered, upper-body shot, generous simple background margins
+Scene/backdrop: flat soft gradient, pale blue to white
+Lighting/mood: bright, friendly, fresh
+Color palette: sky blue and white with a soft accent
+Constraints: fully original character design; NOT resembling any existing mascot, brand or IP (no whale motifs, no deepseek whale, no zhipu/chatglm character, no known anime characters); no text, no watermark, no logo
+Avoid: whale, fish, complex background, text, watermark

@@ -1,0 +1,31 @@
+# Gradle / Android 构建产物
+.gradle/
+build/
+app/build/
+captures/
+*.apk
+*.aab
+
+# Python 缓存
+__pycache__/
+*.pyc
+node_modules/
+
+# 本机配置（不提交）
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# JVM 崩溃日志
+hs_err_pid*.log
+
+# 真机验收截图（本地产物）
+shots/
+
+# 发布 APK：走 GitHub Release 资产，不进 git
+release/
+
+# 本地临时/中间产物
+tmp_*/
+tmp-*/

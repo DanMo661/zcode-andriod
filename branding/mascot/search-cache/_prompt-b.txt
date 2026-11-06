@@ -1,0 +1,10 @@
+Use case: illustration-story
+Asset type: app mascot character, vertical portrait for Android adaptive icon
+Primary request: An ORIGINAL cute little robot mascot, programming assistant theme. Rounded squircle head with a glowing friendly eyes visor, a small "Z"-shaped antenna topper (generic letter shape), tiny headphones on the sides, floating with small stubby arms holding a mini terminal window card.
+Style/medium: modern anime-inspired kawaii vector-look illustration, clean cel shading, bold simple silhouettes
+Composition/framing: vertical portrait, character centered filling most of the frame, simple background
+Scene/backdrop: flat soft gradient, light blue to white
+Lighting/mood: cheerful, techy but soft
+Color palette: blue and white, one warm accent
+Constraints: fully original design; NOT resembling any existing robot mascot or IP (no Astro bot, no EVE, no Doraemon, no whale motifs); no text, no watermark
+Avoid: whale, fish, text, watermark, complex background

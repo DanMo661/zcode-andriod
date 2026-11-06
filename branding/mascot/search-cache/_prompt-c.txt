@@ -1,0 +1,10 @@
+Use case: illustration-story
+Asset type: app mascot character, vertical portrait for Android adaptive icon
+Primary request: An ORIGINAL kawaii cat-girl programmer mascot. Short hair with cat-ear hood, a small letter "Z" hairpin (plain generic letter), big headphones around the neck, sitting cross-legged with a floating holographic terminal panel.
+Style/medium: modern anime illustration, soft cel shading, chibi proportions, bold readable silhouette
+Composition/framing: vertical portrait, centered, simple flat background
+Scene/backdrop: flat soft gradient, white to pale blue
+Lighting/mood: calm, friendly
+Color palette: blue-white fresh palette
+Constraints: fully original; NOT resembling any existing neko mascot or IP (no Hatsune Miku, no“Well-known”vtubers, no whale motifs); no text, no watermark
+Avoid: whale, text, watermark, busy background

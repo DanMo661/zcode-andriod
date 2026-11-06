@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 启动图标背景：与吉祥物前景图（branding/mascot，见 SOURCES.md）配套的近黑底 -->
+    <color name="zcodea_launcher_background">#0D0E0F</color>
+</resources>
